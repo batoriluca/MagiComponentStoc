@@ -1,0 +1,1270 @@
+[
+ {
+  "MFG": "RENESAS",
+  "MPN": "R7F701271EAFP#BC4"
+ },
+ {
+  "MFG": "RENESAS",
+  "MPN": "RAA270000KFT#HA1"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "BM6104FV-CE2"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "BM60054AFV-C"
+ },
+ {
+  "MFG": "OnSemi",
+  "MPN": "NCV0372BDWR2G"
+ },
+ {
+  "MFG": "OnSemi",
+  "MPN": "NLV74HC157ADTR2G"
+ },
+ {
+  "MFG": "OnSemi",
+  "MPN": "NVR5198NLT1G"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "M95M02-DWMN3TP\/K"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "LM2901YPT"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "TLF35584QVVS1"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "IPD50P04P4L-11"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "IPD30N06S4L-23"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "SAK-TC364DP-64F300F AA"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "TLE9252VSK"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "TLE9255WSK"
+ },
+ {
+  "MFG": "SANKEN三垦",
+  "MPN": "SFA0002"
+ },
+ {
+  "MFG": "FDK",
+  "MPN": "ED25TM014"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "UCC21710QDWRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "OPA4171AQPWRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TL331QDBVRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "OPA2171AQDGKRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "SN74LVC1G17QDCKRQ1"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "PBSS4041PX"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "PBSS4041NX"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "RSR030N06HZGTL"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "RSR025N03HZGTL"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "2SCR533PFRAT100"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "BZX84B6V8LFHT116"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "RSR025N05HZGTL"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "BD49E30G-MTR"
+ },
+ {
+  "MFG": "ONSEMI",
+  "MPN": "SZNUP2105LT1G"
+ },
+ {
+  "MFG": "OnSemi",
+  "MPN": "SZNZ9F5V1T5G"
+ },
+ {
+  "MFG": "OnSemi",
+  "MPN": "FDD9509-F085"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "V20PWM15CHM3\/I"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "CMB02070X5609GB200"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "S1MHM3_A\/H"
+ },
+ {
+  "MFG": "TOSHIBA",
+  "MPN": "SSM6L820R"
+ },
+ {
+  "MFG": "TOSHIBA",
+  "MPN": "TC74VHC541FT"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "SMBJ18AQ-13-F"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "BZT52C3V3Q-7-F"
+ },
+ {
+  "MFG": "Nicera尼赛拉",
+  "MPN": "NCTE900NAA"
+ },
+ {
+  "MFG": "Nicera尼赛拉",
+  "MPN": "NCTE-R100"
+ },
+ {
+  "MFG": "RDM",
+  "MPN": "RCA-1040H-100M"
+ },
+ {
+  "MFG": "RDM",
+  "MPN": "RCA-302540B-500M"
+ },
+ {
+  "MFG": "RDM",
+  "MPN": "RCA-4532S-102T21"
+ },
+ {
+  "MFG": "RDM",
+  "MPN": "RCA-N4020A-4R7M"
+ },
+ {
+  "MFG": "TAIWAN ",
+  "MPN": "S8JCH"
+ },
+ {
+  "MFG": "SHINDENGEN新电元",
+  "MPN": "P30FE4SLK"
+ },
+ {
+  "MFG": "SUNCON",
+  "MPN": "35CA100PHT"
+ },
+ {
+  "MFG": "SUSUMU",
+  "MPN": "KRL2012ECR005F"
+ },
+ {
+  "MFG": "SUSUMU",
+  "MPN": "KRL2012E-C-R100-F-T5"
+ },
+ {
+  "MFG": "SHINKA",
+  "MPN": "TSPI-0503-R68M-C"
+ },
+ {
+  "MFG": "SHINKA",
+  "MPN": "STC25-920F"
+ },
+ {
+  "MFG": "JRC新日本无线",
+  "MPN": "NJU77903DL3-H(TE2)"
+ },
+ {
+  "MFG": "TOKAI ",
+  "MPN": "TKELF27070"
+ },
+ {
+  "MFG": "mitsuiwa corporation",
+  "MPN": "TLD8S22AH02-MAG"
+ },
+ {
+  "MFG": "mitsuiwa corporation",
+  "MPN": "S1JLW-01HRVG"
+ },
+ {
+  "MFG": "ROHM",
+  "MPN": "BZX84B5V1LFHT116"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "1EDI3021AS"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "FS820R08A6P2LB"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "LMV358IYPT"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "AD2410WCCSZ-RL"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX16984SATI\/V+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX20006AFOC\/VY+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX20010DATPQ\/V+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX20048ATGD\/VY+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX49017ATA\/VY+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX8902BATA\/V+T"
+ },
+ {
+  "MFG": "ADI",
+  "MPN": "MAX96714GTJ\/VY+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX16932CATIS\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX16952AUE\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX16956AUBF\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX16992AUBB\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX9286GTN\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX9288GTM\/V+T"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX8517EUB+T"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "DS90UB927QSQX\/NOPB"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "DS90UB941ASRTDRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "DS90UB949TRGCRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "LM536023QPWPTQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "SN74LVC1T45QDCKRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "SN74LVC1T45TDCKRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "SN74LVC2GU04DBVR"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "TPS54618QRLBRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "TPS6281020QWRWYRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "TPS65051QRSMRQ1"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "TPS65631DPDR"
+ },
+ {
+  "MFG": "TI \/德州仪器",
+  "MPN": "TPS74801QRGWRQ1"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "STL8DN6LF3"
+ },
+ {
+  "MFG": "INFINEON ",
+  "MPN": "IPZ40N04S5L-2R8"
+ },
+ {
+  "MFG": "NXP ",
+  "MPN": "BA891,115"
+ },
+ {
+  "MFG": "NXP ",
+  "MPN": "SAF7755HV\/N205WY"
+ },
+ {
+  "MFG": "ON ",
+  "MPN": "NRVBA340NT3G"
+ },
+ {
+  "MFG": "ON ",
+  "MPN": "NVMFS5C460NLWFT1G"
+ },
+ {
+  "MFG": "ON ",
+  "MPN": "NVS4001NT1G"
+ },
+ {
+  "MFG": "ON ",
+  "MPN": "NVTFS4C13NTAG"
+ },
+ {
+  "MFG": "ALTERA",
+  "MPN": "5CGXFC4C6U19A7N"
+ },
+ {
+  "MFG": "BROADCOM",
+  "MPN": "BCM89610A2BMLG"
+ },
+ {
+  "MFG": "MICROCHIP ",
+  "MPN": "DSC1001DI2-050.0000T"
+ },
+ {
+  "MFG": "SAMSUNG ",
+  "MPN": "KLMCG4JEUD-B04P058"
+ },
+ {
+  "MFG": "MICRON",
+  "MPN": "MTFC64GAPALGT-AIT"
+ },
+ {
+  "MFG": "SPANSION",
+  "MPN": "S25FS512SDSBHB213"
+ },
+ {
+  "MFG": "CYPRESS",
+  "MPN": "S6J336CHSBSC20000"
+ },
+ {
+  "MFG": "NVIDIA",
+  "MPN": "TC790SA-A2_PS_VERSION"
+ },
+ {
+  "MFG": "TOSHIBA ",
+  "MPN": "TC9594XBG(EL)"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "BAT54WSQ-7-F"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "BAW56Q-7-F"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "BSS84WQ-7-F"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "DMN2004WK-7"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "DMP2070UQ-7"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "MMBT2222AQ-7-F"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "ZXMP6A17E6TA"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "DMP2004KQ-7"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "CRCW04020000Z0EDHP"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "CRCW0402200KFKED"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "CRCW04025K10FKED"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "CRCW08050000Z0EA"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP1616BZER4R7M1A"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP2020BZERR10MA1"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP4040DZER3R3MA1"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP5050CEER1R0MA1"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP5050CEER1R5MA1"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "MAL214699607E3"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "RCS08051K00FKEA"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "SMBJ33CAHE3_A\/I"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "SQ2310ES-T1_GE3"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "SQJ463EP-T1_GE3"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "IHLP1616BZER1R0M1A"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "74AHCU04PW-Q100J"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "BAS40-05W,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "BAS516,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "BC850BW,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "BZX384-C2V4,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "BZX84-C15,215"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "PESD12VL1BA,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "PESD24VF1BLYL"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "PESD24VL1BA,115"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "PESD5V0V1BL,315"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "0805CS-391XGLC"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "MSS6132T-223MLD"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "XAL7070-122MED"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "XEL3530-401MED"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "XEL4020-222MED"
+ },
+ {
+  "MFG": "COILCRAFT",
+  "MPN": "XGL6030-332MED"
+ },
+ {
+  "MFG": "EPCOS",
+  "MPN": "B82462G4474M000"
+ },
+ {
+  "MFG": "EPCOS",
+  "MPN": "B82462G4104M000"
+ },
+ {
+  "MFG": "NDK",
+  "MPN": "EXS00A-CG02322"
+ },
+ {
+  "MFG": "NDK",
+  "MPN": "EXS00A-MU00516"
+ },
+ {
+  "MFG": "NDK",
+  "MPN": "NX3225GA_16MHZ-STD-CRG-2"
+ },
+ {
+  "MFG": "NDK",
+  "MPN": "NZ2520SB 32.768 KHZ ENA4298A"
+ },
+ {
+  "MFG": "EPSON",
+  "MPN": "Q24FA20H0028100"
+ },
+ {
+  "MFG": "LITTELFUSE",
+  "MPN": "SESD0402X1UN-0020-090"
+ },
+ {
+  "MFG": "LITTELFUSE",
+  "MPN": "SP3030-01ETG"
+ },
+ {
+  "MFG": "ROHM ",
+  "MPN": "BCX19HZGT116"
+ },
+ {
+  "MFG": "ROHM ",
+  "MPN": "BD2266G-MGTR"
+ },
+ {
+  "MFG": "ROHM ",
+  "MPN": "BD99010EFV-ME2"
+ },
+ {
+  "MFG": "ROHM ",
+  "MPN": "KDZVTFTR6.8B"
+ },
+ {
+  "MFG": "ROHM ",
+  "MPN": "RB050LAM-30TFTR"
+ },
+ {
+  "MFG": "NIPPON",
+  "MPN": "HHXA350ARA680MF80G"
+ },
+ {
+  "MFG": "NIPPON",
+  "MPN": "HHXC350ARA271MJA0GA"
+ },
+ {
+  "MFG": "NIPPON",
+  "MPN": "HHXC350ARA470MF61G"
+ },
+ {
+  "MFG": "NIPPON",
+  "MPN": "HHXA160ARA151MF80G"
+ },
+ {
+  "MFG": "ISSI",
+  "MPN": "IS25WP032D-JBLA3-TR"
+ },
+ {
+  "MFG": "COMCHIP",
+  "MPN": "CDBU0130L"
+ },
+ {
+  "MFG": "TOKO ",
+  "MPN": "DFE252012PD-1R5M=P2"
+ },
+ {
+  "MFG": "TOKO",
+  "MPN": "#A1313AN-0001GGH=P3"
+ },
+ {
+  "MFG": "KEL",
+  "MPN": "DY01-030S-CY"
+ },
+ {
+  "MFG": "KEL",
+  "MPN": "DY11-030L"
+ },
+ {
+  "MFG": "IPEX",
+  "MPN": "20455-A20E-66"
+ },
+ {
+  "MFG": "KING CORE",
+  "MPN": "K5BS5H5X4.6X5.5-2.5TS-M-T"
+ },
+ {
+  "MFG": "HARWIN",
+  "MPN": "S8131-46R"
+ },
+ {
+  "MFG": "JOINSET",
+  "MPN": "SMR-TSL-3-2-4GRE"
+ },
+ {
+  "MFG": "HALO ",
+  "MPN": "TG1G-AE11NZ6NLTR"
+ },
+ {
+  "MFG": "IFLYTEK",
+  "MPN": "XF8402SQA1-2.1"
+ },
+ {
+  "MFG": "AVX",
+  "MPN": "0402YC332K4T4A"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "S9S12XS256J0MALR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "CC1100RTKR"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "S9S12G48BCLC"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "DRV83053QPHPQ1"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "VND7E025AJTR"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "VNLD5090TR-E"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "VNH7040AYTR"
+ },
+ {
+  "MFG": "Infineon",
+  "MPN": "BTS5120-2EKA"
+ },
+ {
+  "MFG": "Vishay",
+  "MPN": "BZX84C16-HE3-18"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "DS90UB914ATRHSRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS7B4253QDDARQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LM5165YDRCR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS259231DRCR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LP873220RHDRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "ALM2403QPWPRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "SN74AHCT02DR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "HD3SS6126RUAR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS56C230RJER"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LM3478QMM\/NOPB"
+ },
+ {
+  "MFG": "MICRON",
+  "MPN": "MT53D512M32D2DS046 AAT:D"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS22965NTDSGRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LM53601AQDSXTQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS62088YFPR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LP2981-50DBVR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TS3A5018DBQR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "LM51521QRGRRQ1"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "F280049PZSR"
+ },
+ {
+  "MFG": "Infineon",
+  "MPN": "FF900R12ME7_B11"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "PCM1862DBT"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "INA250A2PW"
+ },
+ {
+  "MFG": "Infineon",
+  "MPN": "BTT6020-1ERA"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "A7987TR"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "VND5N07TR-E"
+ },
+ {
+  "MFG": "VISHAY",
+  "MPN": "1.5SMC33CAHE3_A\/H"
+ },
+ {
+  "MFG": "ST",
+  "MPN": "VND5T100LAJTR-E"
+ },
+ {
+  "MFG": "muRata",
+  "MPN": "DFE252010F-1R0M=P2"
+ },
+ {
+  "MFG": "东微ORIENTAL",
+  "MPN": "OSG60R030HZ"
+ },
+ {
+  "MFG": "MICRON\/美光",
+  "MPN": "MT40A1G16KH-062E AAT:E"
+ },
+ {
+  "MFG": "Nexperia(安世)",
+  "MPN": "PMDPB55XP"
+ },
+ {
+  "MFG": "比亚迪半导体",
+  "MPN": "BM840F12B34U2"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "TEA1791T\/N1"
+ },
+ {
+  "MFG": "INFINEON",
+  "MPN": "SAK-TC364DP-64F300F AA"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "MC78M12CDTRKG"
+ },
+ {
+  "MFG": "LOTES\/嘉泽",
+  "MPN": "ACA-SPI-004-K01"
+ },
+ {
+  "MFG": "MPS",
+  "MPN": "MPQ2459GJ-AEC1-Z"
+ },
+ {
+  "MFG": "HUAJING(华晶)",
+  "MPN": "CS3N90A31R-G"
+ },
+ {
+  "MFG": "东微",
+  "MPN": "0SG65R035HF"
+ },
+ {
+  "MFG": "DIODES牌",
+  "MPN": "PI3EQX10612ZLCEX"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX3421EETJ+T"
+ },
+ {
+  "MFG": "MXIC牌",
+  "MPN": "MX25L25673GZNI-10G"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "QCS-605-0-771PSP-TR-01-0-AC"
+ },
+ {
+  "MFG": "MAXIM",
+  "MPN": "MAX17525ATP+T"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TRS3221ECDBR"
+ },
+ {
+  "MFG": "TOSHIBA",
+  "MPN": "TPCA8051-H"
+ },
+ {
+  "MFG": "NDK",
+  "MPN": "EXS00A-CS10526"
+ },
+ {
+  "MFG": "DIODES",
+  "MPN": "PI3EQX5801ZDEX"
+ },
+ {
+  "MFG": "DIALOG",
+  "MPN": "DA9212-AKUU2"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "PM-670L-0-196WLPSP-TR-00-0-01"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "PM-670-0-219WLPSP-TR-01-1"
+ },
+ {
+  "MFG": "GIGADEVICE",
+  "MPN": "GD25LQ80BTIGR"
+ },
+ {
+  "MFG": "ETRON",
+  "MPN": "EJ179J"
+ },
+ {
+  "MFG": "SKYWORKS",
+  "MPN": "SKY85813-11"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPA3110D2PWPR"
+ },
+ {
+  "MFG": "MTK",
+  "MPN": "MT8173V\/CBB"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPA3113D2PWPR"
+ },
+ {
+  "MFG": "MTK",
+  "MPN": "MT6391A\/BA"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "SN65DSI84ZQER"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS61178RNWR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "SN75DP159RGZR"
+ },
+ {
+  "MFG": "NXP",
+  "MPN": "MIMX8MM6DVTLZAA"
+ },
+ {
+  "MFG": "CYPRESS",
+  "MPN": "CYPD4136-24LQXQ"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "WCD-9341-0-154WLPSP-TR-01-0"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NCP3902FCCTBG"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "PM-3003A-3-15CWLNSP-TR-00-0-03"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS2553DRVR"
+ },
+ {
+  "MFG": "WILLSEMI",
+  "MPN": "WS4603E-5\/TR"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NCP398FCCT1G"
+ },
+ {
+  "MFG": "RICHTEK",
+  "MPN": "RT8577AGQW"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TPS3803-01DCKR"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "TMP103AYFFR"
+ },
+ {
+  "MFG": "GMT",
+  "MPN": "G5695T11U"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NL17SG04AMUTCG"
+ },
+ {
+  "MFG": "TXC",
+  "MPN": "8Q37470001"
+ },
+ {
+  "MFG": "PANJIT",
+  "MPN": "P4SMAFJ15A"
+ },
+ {
+  "MFG": "NEXPERIA",
+  "MPN": "PDZ5.6B"
+ },
+ {
+  "MFG": "TXC",
+  "MPN": "8Z26000054"
+ },
+ {
+  "MFG": "RICHTEK",
+  "MPN": "RT9554AGQW"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NCP81168MNTBG"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "FPF1204UCX"
+ },
+ {
+  "MFG": "MURATA",
+  "MPN": "LQG15HS3N9S02D"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "MMSZ5231BT1G"
+ },
+ {
+  "MFG": "TXC",
+  "MPN": "7M16000099"
+ },
+ {
+  "MFG": "HEC",
+  "MPN": "C1210X475K101T"
+ },
+ {
+  "MFG": "MURATA",
+  "MPN": "DFE252010F-2R2M=P2"
+ },
+ {
+  "MFG": "CYNTEC",
+  "MPN": "SDTM20161T-1R0MS"
+ },
+ {
+  "MFG": "TAIYO\/太诱",
+  "MPN": "MCF12102G900-T"
+ },
+ {
+  "MFG": "ARFON(达方)",
+  "MPN": "C0603NP0270FGT"
+ },
+ {
+  "MFG": "Murata",
+  "MPN": "GRM1555C1H1R0B"
+ },
+ {
+  "MFG": "Walsin(华新科)",
+  "MPN": "0603B224K250CT"
+ },
+ {
+  "MFG": "Cyntec(乾坤)",
+  "MPN": "SDTM20161T-2R2MS"
+ },
+ {
+  "MFG": "Cyntec(乾坤)",
+  "MPN": "SDTM20161T-R68MS"
+ },
+ {
+  "MFG": "YGO",
+  "MPN": "RC0402FR-073K9L"
+ },
+ {
+  "MFG": "MURATA",
+  "MPN": "LQG15HS6N8J02D"
+ },
+ {
+  "MFG": "CYNTEC",
+  "MPN": "RR0510S-1623-FN"
+ },
+ {
+  "MFG": "CYNTEC",
+  "MPN": "RR0510S-300-FN"
+ },
+ {
+  "MFG": "TKS",
+  "MPN": "TVM0G120M151R"
+ },
+ {
+  "MFG": "YAGEO",
+  "MPN": "RC0402FR-0718K2L"
+ },
+ {
+  "MFG": "WALSIN(华新科)",
+  "MPN": "WR04X3901FTL"
+ },
+ {
+  "MFG": "CYNTEC",
+  "MPN": "RR0510S-433-FN"
+ },
+ {
+  "MFG": "CYNTEC",
+  "MPN": "RR0510S-3654-FN"
+ },
+ {
+  "MFG": "QUALCOMM",
+  "MPN": "PM-3003A-4-15CWLNSP-TR-00-0-04"
+ },
+ {
+  "MFG": "SANKEN",
+  "MPN": "SFA0002-VF"
+ },
+ {
+  "MFG": "HRS(广濑)",
+  "MPN": "GT8E-8\/2P-2H(70)"
+ },
+ {
+  "MFG": "HRS(广濑)",
+  "MPN": "GI8E-6P-2H"
+ },
+ {
+  "MFG": "HRS(广濑)",
+  "MPN": "GT8E-6P-2H(55)"
+ },
+ {
+  "MFG": "TOSHIBA(东芝)",
+  "MPN": "TC74VHC541FT"
+ },
+ {
+  "MFG": "TOSHIBA(东芝)",
+  "MPN": "TC74VHC541FT"
+ },
+ {
+  "MFG": "TOSHIBA(东芝)",
+  "MPN": "TC74VHC541FT"
+ },
+ {
+  "MFG": "SHINDENGEN新电元",
+  "MPN": "P30FE4SLK"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MFG": "onsemi(安森美)",
+  "MPN": "FDD9509L-F085"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MPN": "SFA0002-VF-RP"
+ },
+ {
+  "MFG": "Nexperia(安世)",
+  "MPN": "PBSS4041NX,115"
+ },
+ {
+  "MFG": "Nexperia(安世)",
+  "MPN": "PBSS4041PX,115"
+ },
+ {
+  "MFG": "ROHM(罗姆)",
+  "MPN": "RSR025N05HZGTL"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "SZNZ9F5V1T5G"
+ },
+ {
+  "MPN": "S1JLW-01HRVG"
+ },
+ {
+  "MFG": "ISAHAYA",
+  "MPN": "2SA2166-T150-1W"
+ },
+ {
+  "MFG": "ISAHAYA",
+  "MPN": "2SC6046-T150-1W"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NCV0372BDWR2G"
+ },
+ {
+  "MFG": "ON",
+  "MPN": "NVR5198NLT1G"
+ },
+ {
+  "MFG": "Infineon(英飞凌)",
+  "MPN": "SAK-TC275TP-64F200N DC"
+ },
+ {
+  "MFG": "ROHM(罗姆)",
+  "MPN": "BM6104FV-CE2"
+ },
+ {
+  "MFG": "MAXIM\/美信",
+  "MPN": "MAX9286GTN\/V+T"
+ },
+ {
+  "MFG": "TI ",
+  "MPN": "DS90UB941ASRTDRQ1"
+ },
+ {
+  "MFG": "RENESAS(瑞萨)\/IDT",
+  "MPN": "RAA270000KFT"
+ },
+ {
+  "MFG": "MAXIM(美信)",
+  "MPN": "MAX9288GTM\/V+T"
+ },
+ {
+  "MFG": "MAXIM(美信)",
+  "MPN": "MAX16984SATI\/V+T"
+ },
+ {
+  "MFG": "MAXIM(美信)",
+  "MPN": "MAX96714GTJ\/VY+T"
+ }
+]

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MagiComponentStoc - B2B Electronic Components Supply | Opening Soon</title>
+    <meta name="description" content="Premium bulk electronic components supplier for B2B partners. Trusted manufacturers, competitive prices, reliable stock. Opening soon - request your offer today." />
+    <meta name="author" content="MagiComponentStoc" />
+
+    <meta property="og:title" content="MagiComponentStoc - B2B Electronic Components Supply" />
+    <meta property="og:description" content="Premium bulk electronic components supplier for B2B partners. Opening soon with competitive prices and reliable stock availability." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@magicomponentstoc" />
+    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    
+    <link rel="stylesheet" href="/stock.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <!-- Hero Section -->
+    <header>
+        
+            <a href="/index.html"><img src="/assets/imgs/Asset 1.png" alt=""></a>
+           
+                <a href="/index.html" style="text-decoration: none;"><button class="btn btn-hero" onclick="scrollToContact()">
+              Request Offer
+            </button>
+            </a>
+            
+            
+        
+     </header>
+    <section class="hero-section">
+      <div class="hero-background"></div>
+      <div class="hero-overlay"></div>
+      
+      <div class="hero-content">
+        <div class="opening-soon-badge">
+            <div class="pulse-dot"></div>
+            <span>In stock</span>
+        </div>
+        <input type="text" id="SearchInput" placeholder="Search for a component..." class="search-input" />
+        <button id="backToSearch" style="display: none;">Back</button>
+            <div id="search-results" class="search-results" style="display: none;">
+    
+            </div>
+            <h2 id="text_h2">
+    Below you’ll find a selection of components from some popular suppliers.
+    
+            </h2>
+            <p id="text_p">
+               If you’re looking for a specific part, please use the search bar above to quickly find 
+    <strong>any manufacturer or part number</strong> in our database.
+            </p>
+            <!--<h2 style="font-family: 'Righteous', sans-serif;font-weight: 400;">Check these components!</h2>-->
+            <div id="components-lists" class="component-lists">
+                
+                <div class="listNotOpened" id="maxim-list" style="overflow-y: hidden;">
+                    <img src="/assets/imgs/maxim.png" alt="">
+                    <button id="maxim-btn" class="btnToOpen">View all components</button>
+                    
+                    <div id="maxim-results" class="maxim-results" style="display: none;">
+                        
+                    </div>
+                </div>
+                <div class="listNotOpened" id="vishay-list" style="overflow-y: hidden;">
+                    <img src="/assets/imgs/Vishay.svg" alt="">
+                    <button id="vishay-btn" class="btnToOpen">View all components</button>
+                     <div id="vishay-results" class="maxim-results" style="display: none;">
+                        
+                    </div>
+                </div>
+                <div class="listNotOpened" id="ti-list" style="overflow-y: hidden;">
+                    <img src="/assets/imgs/TexasInstruments-Logo.svg" alt="">
+                    <button id="ti-btn" class="btnToOpen">View all components</button>
+                     <div id="ti-results" class="maxim-results" style="display: none;">
+                        
+                    </div>
+                </div>
+                <div class="listNotOpened" id="toshiba-list" style="overflow-y: hidden;">
+                    <img src="/assets/imgs/toshiba.png" alt="">
+                    <button id="toshiba-btn" class="btnToOpen">View all components</button>
+                     <div id="toshiba-results" class="maxim-results" style="display: none;">
+                        
+                    </div>
+                </div>
+    
+            </div>
+            <div id="request-offer" class="request-offer" style="display: none;">
+                <div style="display: flex;">
+                    <h6><strong>Component:</strong></h6>
+                    <h6 id="comp_name" style="margin-left: 10px;"></h6>
+                </div>
+                <form id="contactForm2">
+                    <div style="display: block;margin-bottom: 10px; text-align: left;">
+                        <label for="quantity"><strong style="margin-left: 10px; margin-bottom: 5px;">Quantity:</strong></label>
+                        <input type="number" id="quantity" name="quantity" min="1" required>
+                    </div>
+                    <input type="hidden" name="mpn" id="comp_name_input">
+                    <div style="display: block;margin-bottom: 10px; text-align: left;">
+                        <label for="email"><strong style="margin-left: 10px; margin-bottom: 5px;">Email:</strong></label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <button type="submit" class="btn btn-hero btn-full">
+                        Request Offer
+                    </button>
+                </form>
+            </div>
+            
+      </div>
+      
+      
+    </section>
+   
+    
+        
+
+    <!-- 
+    <section id="contact" class="contact-section">
+      <div class="container-narrow">
+        <div class="section-header">
+          <h2 class="section-title gradient-primary" style="font-family: 'Righteous', sans-serif;font-weight: 400;">
+            Request an Offer
+          </h2>
+          <p class="section-description">
+            Get in touch with us for bulk electronic component supplies
+          </p>
+        </div>
+        
+        <div class="contact-card">
+          <div class="card-header">
+            <h3 class="card-title">Business Inquiry</h3>
+            <p class="card-description">
+              Tell us about your component needs and we'll provide a competitive offer
+            </p>
+          </div>
+          <form id="contactForm" class="contact-form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="companyName">Company Name *</label>
+                <input type="text" id="companyName" name="companyName" required>
+              </div>
+              <div class="form-group">
+                <label for="contactName">Contact Person *</label>
+                <input type="text" id="contactName" name="contactName" required>
+              </div>
+            </div>
+            
+            <div class="form-row">
+              <div class="form-group">
+                <label for="email">Email Address *</label>
+                <input type="email" id="email" name="email" required>
+              </div>
+              <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone">
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <label for="message">Message *</label>
+              <textarea id="message" name="message" rows="5" placeholder="Please describe your component requirements, quantities, and any specific needs..." required></textarea>
+            </div>
+            
+            <button type="submit" class="btn btn-hero btn-full">
+              Send Inquiry
+            </button>
+          </form>
+        </div>
+      </div>
+    </section>
+
+     Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-section">
+            <img src="/assets/imgs/Asset 1.png" style="width: 230px;" alt="">
+            <p class="footer-description">
+              Your trusted partner for bulk electronic components supply. 
+              Serving businesses in the electronics distribution industry.
+            </p>
+          </div>
+          
+          <div class="footer-section">
+            <h4 class="footer-heading">Contact Info</h4>
+            <div class="footer-info">
+              <p>Email: info@magicomponentstoc.com</p>
+              <p>Phone: (+40) 741 089 466</p>
+              
+            </div>
+          </div>
+          
+          
+        </div>
+        
+        <div class="footer-bottom">
+          <p>&copy; 2025 MagiComponentStoc. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">
+      <div class="toast-content">
+        <h4 id="toastTitle">Message Sent!</h4>
+        <p id="toastMessage">We'll contact you soon with our offer details.</p>
+      </div>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script>
+
+emailjs.init("GNOV6v9TK_A0bZoku");
+
+  
+  document.getElementById("contactForm2").addEventListener("submit", function(event) {
+    event.preventDefault();
+    document.getElementById("comp_name_input").value =
+    document.getElementById("comp_name").innerText;
+
+    emailjs.sendForm("service_gwr4qjn", "template_qet5cp5", this)
+      .then(() => {
+        alert("Message sent successfully!");
+      }, (error) => {
+        alert("Failed to send: " + JSON.stringify(error));
+      });
+  });
+
+var swicth=0;
+
+        const text_h2 = document.getElementById('text_h2');
+        const text_p = document.getElementById('text_p');
+
+    const backBtn = document.getElementById('backToSearch');
+    const maximBtn = document.getElementById('maxim-btn');
+    const vishayBtn = document.getElementById('vishay-btn');
+    const tiBtn = document.getElementById('ti-btn');
+    const toshibaBtn = document.getElementById('toshiba-btn');
+
+    const maximList = document.getElementById('maxim-list');
+    const vishayList = document.getElementById('vishay-list');
+    const tiList = document.getElementById('ti-list');
+    const toshibaList = document.getElementById('toshiba-list');
+
+    maximBtn.addEventListener('click', () => {
+        swicth=2;
+        maximList.classList.toggle('listOpened');
+        maximList.classList.remove('listNotOpened');
+        vishayList.setAttribute('style', 'display:none;');
+        tiList.setAttribute('style', 'display: none;');
+        toshibaList.setAttribute('style', 'display: none;');
+        text_h2.style.display = 'none';
+        text_p.style.display = 'none';
+        document.querySelector('#maxim-results').style.display = 'block';
+        document.querySelector('#SearchInput').style.display = 'none';
+        document.querySelector('#backToSearch').style.display = 'block';
+        const results=document.querySelectorAll('.result-item');
+        for (let i = 0; i < results.length; i++) {
+    results[i].addEventListener('click', () => {
+        document.getElementById('request-offer').style.display = 'block';
+        document.getElementById('comp_name').innerText = results[i].id;
+         document.querySelector('#maxim-results').style.display = 'none';
+         maximList.setAttribute('style', 'display: none;');
+    });
+    }
+        backBtn.addEventListener('click', () => {
+            document.getElementById('request-offer').style.display = 'none';
+            text_h2.style.display = 'block';
+        text_p.style.display = 'block';
+            document.querySelector('#SearchInput').style.display = 'block';
+            document.querySelector('#backToSearch').style.display = 'none';
+            
+            vishayList.setAttribute('style', 'display:block;');
+        tiList.setAttribute('style', 'display: block;');
+        toshibaList.setAttribute('style', 'display: block;');
+            maximList.classList.remove('listOpened');
+            maximList.classList.add('listNotOpened');
+            maximList.setAttribute('style', 'display: block;');
+            document.querySelector('#maxim-results').style.display = 'none';
+            document.querySelector('#search-results').style.display = 'none';
+        });
+    });
+    vishayBtn.addEventListener('click', () => {
+        swicth=2;
+        text_h2.style.display = 'none';
+        text_p.style.display = 'none';
+        vishayList.classList.toggle('listOpened');
+        vishayList.classList.remove('listNotOpened');
+        maximList.setAttribute('style', 'display:none;');
+        tiList.setAttribute('style', 'display: none;');
+        toshibaList.setAttribute('style', 'display: none;');
+        document.querySelector('#vishay-results').style.display = 'block';
+        document.querySelector('#SearchInput').style.display = 'none';
+        document.querySelector('#backToSearch').style.display = 'block';
+        const results=document.querySelectorAll('.result-item');
+        for (let i = 0; i < results.length; i++) {
+    results[i].addEventListener('click', () => {
+        document.getElementById('request-offer').style.display = 'block';
+        document.getElementById('comp_name').innerText = results[i].id;
+         document.querySelector('#vishay-results').style.display = 'none';
+         vishayList.setAttribute('style', 'display: none;');
+    });
+    }
+        backBtn.addEventListener('click', () => {
+            document.getElementById('request-offer').style.display = 'none';
+            text_h2.style.display = 'block';
+        text_p.style.display = 'block';
+            document.querySelector('#SearchInput').style.display = 'block';
+            document.querySelector('#backToSearch').style.display = 'none';
+            
+            maximList.setAttribute('style', 'display:block;');
+            tiList.setAttribute('style', 'display: block;');
+            toshibaList.setAttribute('style', 'display: block;');
+            vishayList.classList.remove('listOpened');
+            vishayList.classList.add('listNotOpened');
+            vishayList.setAttribute('style', 'display: block;');
+            document.querySelector('#vishay-results').style.display = 'none';
+            document.querySelector('#search-results').style.display = 'none';
+        });
+    });
+    tiBtn.addEventListener('click', () => {
+        swicth=2;
+        text_h2.style.display = 'none';
+        text_p.style.display = 'none';
+        tiList.classList.toggle('listOpened');
+        tiList.classList.remove('listNotOpened');
+        vishayList.setAttribute('style', 'display:none;');
+        maximList.setAttribute('style', 'display: none;');
+        toshibaList.setAttribute('style', 'display: none;');
+        document.querySelector('#ti-results').style.display = 'block';
+        document.querySelector('#SearchInput').style.display = 'none';
+        document.querySelector('#backToSearch').style.display = 'block';
+        const results=document.querySelectorAll('.result-item');
+        for (let i = 0; i < results.length; i++) {
+    results[i].addEventListener('click', () => {
+        document.getElementById('request-offer').style.display = 'block';
+        document.getElementById('comp_name').innerText = results[i].id;
+         document.querySelector('#ti-results').style.display = 'none';
+         tiList.setAttribute('style', 'display: none;');
+    });
+    }
+        backBtn.addEventListener('click', () => {
+            document.getElementById('request-offer').style.display = 'none';
+            text_h2.style.display = 'block';
+        text_p.style.display = 'block';
+            document.querySelector('#SearchInput').style.display = 'block';
+            document.querySelector('#backToSearch').style.display = 'none';
+            
+            vishayList.setAttribute('style', 'display:block;');
+            maximList.setAttribute('style', 'display: block;');
+            toshibaList.setAttribute('style', 'display: block;');
+            tiList.classList.remove('listOpened');
+            tiList.classList.add('listNotOpened');
+            tiList.setAttribute('style', 'display: block;');
+            document.querySelector('#ti-results').style.display = 'none';
+            document.querySelector('#search-results').style.display = 'none';
+        });
+    });
+    toshibaBtn.addEventListener('click', () => {
+        swicth=2;
+        text_h2.style.display = 'none';
+        text_p.style.display = 'none';
+        toshibaList.classList.toggle('listOpened');
+        toshibaList.classList.remove('listNotOpened');
+        vishayList.setAttribute('style', 'display:none;');
+        tiList.setAttribute('style', 'display: none;');
+        maximList.setAttribute('style', 'display: none;');
+        document.querySelector('#toshiba-results').style.display = 'block';
+        document.querySelector('#SearchInput').style.display = 'none';
+        document.querySelector('#backToSearch').style.display = 'block';
+        const results=document.querySelectorAll('.result-item');
+   for (let i = 0; i < results.length; i++) {
+    results[i].addEventListener('click', () => {
+        document.getElementById('request-offer').style.display = 'block';
+        document.getElementById('comp_name').innerText = results[i].id;
+         document.querySelector('#toshiba-results').style.display = 'none';
+         toshibaList.setAttribute('style', 'display: none;');
+    });
+    }
+        backBtn.addEventListener('click', () => {
+            document.getElementById('request-offer').style.display = 'none';
+            text_h2.style.display = 'block';
+        text_p.style.display = 'block';
+            document.querySelector('#SearchInput').style.display = 'block';
+            document.querySelector('#backToSearch').style.display = 'none';
+            
+            vishayList.setAttribute('style', 'display:block;');
+            tiList.setAttribute('style', 'display: block;');
+            maximList.setAttribute('style', 'display: block;');
+            toshibaList.classList.remove('listOpened');
+            toshibaList.classList.add('listNotOpened');
+            toshibaList.setAttribute('style', 'display: block;');
+            document.querySelector('#toshiba-results').style.display = 'none';
+            document.querySelector('#search-results').style.display = 'none';
+        });
+    });
+
+  let mfgData = [];
+
+  // Fetch JSON data once
+  fetch('MFG.json')
+    .then(response => response.json())
+    .then(data => {
+      mfgData = data;
+      const listMaxim = document.getElementById("maxim-results");
+      const listVishay = document.getElementById("vishay-results");
+      const listTi = document.getElementById("ti-results");
+      const listToshiba = document.getElementById("toshiba-results");
+        data.forEach(item => {
+        if(item.MFG && item.MFG.toLowerCase().includes('maxim')){
+          const div = document.createElement("div");
+          div.className = 'result-item';
+          div.innerHTML = `<strong>${item.MFG}</strong> <span>${item.MPN}</span>`;
+          div.setAttribute('id', `${item.MFG}_${item.MPN}`);
+          listMaxim.appendChild(div);
+        }
+        else if(item.MFG && item.MFG.toLowerCase().includes('ti ')){
+          const div = document.createElement("div");
+          div.className = 'result-item';
+          div.innerHTML = `<strong>${item.MFG}</strong> <span>${item.MPN}</span>`;
+          div.setAttribute('id', `${item.MFG}_${item.MPN}`);
+          listTi.appendChild(div);
+        }
+        else if(item.MFG && item.MFG.toLowerCase().includes('vishay')){
+          const div = document.createElement("div");
+          div.className = 'result-item';
+          div.innerHTML = `<strong>${item.MFG}</strong> <span>${item.MPN}</span>`;
+          div.setAttribute('id', `${item.MFG}_${item.MPN}`);
+          listVishay.appendChild(div);
+        }
+        else if(item.MFG && item.MFG.toLowerCase().includes('toshiba')){
+          const div = document.createElement("div");
+          div.className = 'result-item';
+          div.innerHTML = `<strong>${item.MFG}</strong> <span>${item.MPN}</span>`;
+          div.setAttribute('id', `${item.MFG}_${item.MPN}`);
+          listToshiba.appendChild(div);
+
+        }
+        });
+    })
+    .catch(error => console.error('Error loading JSON:', error));
+
+
+
+  // Search functionality
+  document.getElementById('SearchInput').addEventListener('input', function() {
+    swicth=1;
+    document.getElementById('request-offer').style.display = 'none';
+    const query = this.value.trim().toLowerCase();
+    const resultsContainer = document.getElementById('search-results');
+    const otherLists = document.getElementById('components-lists');
+
+    resultsContainer.innerHTML = '';
+
+    if (query.length === 0) {
+      resultsContainer.style.display = 'none';
+      if(window.innerWidth < 768){
+        otherLists.style.display = 'block';
+      }
+      else otherLists.style.display = 'flex';
+      text_h2.style.display = 'block';
+      
+        text_p.style.display = 'block';
+      return;
+    }
+    else {
+      resultsContainer.style.display = 'block';
+      otherLists.style.display = 'none';
+      text_h2.style.display = 'none';
+        text_p.style.display = 'none';
+      
+    }
+
+    // Filter results
+    const results = mfgData.filter(item =>
+  (item.MFG && String(item.MFG).toLowerCase().includes(query)) ||
+  (item.MPN && String(item.MPN).toLowerCase().includes(query))
+).slice(0, 25);
+
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '<div class="no-results">No results found.</div>';
+    } else {
+      results.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'result-item';
+        div.innerHTML = `<strong>${item.MFG || ''}</strong> <span>${item.MPN || ''}</span>`;
+        div.setAttribute('id', `${item.MFG}_${item.MPN}`);
+        resultsContainer.appendChild(div);
+      });
+    }
+    
+    resultsContainer.style.display = 'block';
+    const results2=document.querySelectorAll('.result-item');
+    for (let i = 0; i < results2.length; i++) {
+    results2[i].addEventListener('click', () => {
+        document.getElementById('request-offer').style.display = 'block';
+        document.getElementById('comp_name').innerText = results2[i].id;
+         document.querySelector('#search-results').style.display = 'none';
+         document.querySelector('#SearchInput').style.display = 'none';
+        document.querySelector('#backToSearch').style.display = 'block';
+         resultsContainer.setAttribute('style', 'display: none;');
+         backBtn.addEventListener('click', () => {
+            document.querySelector('#SearchInput').style.display = 'block';
+            document.querySelector('#backToSearch').style.display = 'none';
+            if(swicth==1){
+            document.querySelector('#search-results').style.display = 'block';
+            }
+            
+            
+            document.getElementById('request-offer').style.display = 'none';
+            text_h2.style.display = 'none';
+            text_p.style.display = 'none';
+         });
+    });
+    }
+  });
+
+  
+</script>
+  </body>
+</html>
